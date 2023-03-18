@@ -1,1 +1,3 @@
-# Excel-Data-Analysis-Projects
+INTRODUCTION
+
+For this project, I covered the procedure for refining and organizing an unprocessed data set on Excel. This will involve utilizing functions such as the trim formula and data types and eliminating duplicates. Next, I will examine the data characteristics by applying the data analysis feature in Excel. This will give me critical figures such as the mean, minimum, maximum, quartiles, etc. I will also produce a box and whisker plot to evaluate any anomalies. Finally, I will scrutinize the data using pivot tables to answer three business questions; what is our best selling product?, what is our total revenue?, and what is the revenue breakdown by payment method.
